@@ -1,0 +1,71 @@
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+::selection{
+    background: #ffee58;
+    color: #ff00af;
+}
+#hero .nav-wrapper{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#hero-header a{
+    color: #b633bf;
+}
+
+#hero-header .col{
+    padding: 0;
+}
+
+header#hero{
+    color: #ffffff;
+    background: #ac3ecf;
+    background: -moz-linear-gradient(-45deg, #ac3ecf 0%, #ff00af 100%);
+    background: -webkit-linear-gradient(-45deg, #ac3ecf 0%, #ff00af 100%);
+    background: linear-gradient(135deg, #ac3ecf 0%, #ff00af 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorsstr);
+    padding-bottom: 2rem;
+}
+header nav{
+    color: #ffffff;
+    background: #ac3ecf;
+    background: -moz-linear-gradient(-45deg, #ac3ecf 0%, #ff00af 100%);
+    background: -webkit-linear-gradient(-45deg, #ac3ecf 0%, #ff00af 100%);
+    background: linear-gradient(135deg, #ac3ecf 0%, #ff00af 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorsstr);
+
+}
+h4{
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 600;
+    text-align: center;
+    color: #ff00af;
+    /* margin-bottom: 2rem; */
+    margin-top: 4rem;
+}
+
+#table-of-contents{
+    background: #fff6ff;
+}
+
+#table-of-contents-content{
+    background: #ffffff;
+}
+
+#botao{
+    margin-top: 3rem;
+}
+
+#table-of-contents{
+    padding-bottom: 3rem;
+    padding-top: 0.5rem;
+}
+
+#stats{
+    margin-bottom: 4rem;
+}
